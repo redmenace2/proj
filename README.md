@@ -1,1 +1,1 @@
-All posssible combination of ana array (repeated)
+All posssible combination of an array (repeated)
